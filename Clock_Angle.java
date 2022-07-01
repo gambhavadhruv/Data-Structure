@@ -1,5 +1,5 @@
 import java.util.*;
-public class Clock{
+public class Clock_Angle{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the hour : ");
